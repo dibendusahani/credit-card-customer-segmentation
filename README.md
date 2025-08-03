@@ -1,6 +1,6 @@
 # 💳 Credit Card Customer Segmentation using Clustering
 
-This project was developed by **[Your Full Name]** as part of a personal initiative to understand and apply **unsupervised learning** techniques for solving real-world business problems.
+This project was developed by **Dibendu Sahani** as part of a personal initiative to understand and apply **unsupervised learning** techniques for solving real-world business problems.
 
 ---
 
@@ -39,3 +39,4 @@ Banks and credit card companies often struggle to understand the different types
 - Jupyter Notebook
 
 ---
+
